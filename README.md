@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zirui Wang, a Finance Ph.D. Student at McCombs School of Business, University of Texas at Austin.
+- 👋 Hi, I’m Zirui Wang, a Finance Ph.D. Student at [McCombs School of Business](https://www.mccombs.utexas.edu/), [University of Texas at Austin](https://www.utexas.edu/).
 - 👀 I’m interested in Behavioral Finance, Fintech, Machine Learning and more to be explored during the Ph.D. program.
 - 📫 Find more info about me on my personal website www.wang-zirui.com
 
